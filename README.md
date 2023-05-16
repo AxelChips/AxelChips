@@ -1,7 +1,7 @@
 # Hola :)
 
-![Twitch Status](https://img.shields.io/twitch/status/axelchips?label=AxelChips&style=social) - 
-![Twitter Follow](https://img.shields.io/twitter/follow/axelchipz?label=Twitter%20Follow%20-%20%40axelchipz&style=social) - 
+![Twitch Status](https://img.shields.io/twitch/status/axelchips?label=AxelChips&style=social)ㅤㅤ
+![Twitter Follow](https://img.shields.io/twitter/follow/axelchipz?label=Twitter%20Follow%20-%20%40axelchipz&style=social)ㅤㅤ
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/AxelChips?label=Reddit%20-%20Follow&style=social)
 
 
