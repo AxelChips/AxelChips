@@ -17,15 +17,12 @@
 
 :writing_hand: Actual Proyecto: Hydex.dev 
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## Trabajando en
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://twitter.com/AxelChipss)](https://twitter.com/AxelChipss)
+...
 
-[![tech-stack.tools](https://svg.bookmark.style/api?url=https://tech-stack.tools/&mode=dark&style=horizontal)](https://tech-stack.tools)
-[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Mis habilidades
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
