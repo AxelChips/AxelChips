@@ -13,7 +13,7 @@
 - 🛡️HTML & CSS 
 - 📱Database manager
 
-I like Pizza
+- 🍕I like Pizza
 
 :writing_hand: Actual Proyecto: Hydex.dev 
 
