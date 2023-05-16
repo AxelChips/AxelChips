@@ -31,4 +31,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AxelChips&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AxelChips&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
