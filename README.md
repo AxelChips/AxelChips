@@ -10,10 +10,9 @@
 - 🌙LUA Script 
 - 🛡️HTML & CSS 
 - 📱Database manager
-
 - 🍕I like Pizza
 
-:writing_hand: Actual Proyecto: Hydex.dev 
+- :writing_hand: Actual Proyecto: Hydex.dev 
 
 ## Trabajando en
 
