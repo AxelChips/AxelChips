@@ -1,6 +1,6 @@
 # Hola :)
 
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/axelchips?label=AxelChips&style=social">
+<img alt="Twitch Status" src="[https://img.shields.io/twitch/status/axelchips?label=AxelChips&style=social](https://camo.githubusercontent.com/e26536d4a159d3a7df8fb7b9e03d5fa1cf72befcd06c60508e499b71b1881a37/68747470733a2f2f696d672e736869656c64732e696f2f7477697463682f7374617475732f6178656c63686970733f6c6162656c3d4178656c4368697073267374796c653d736f6369616c)">
 
 
 ## Sobre Mi
