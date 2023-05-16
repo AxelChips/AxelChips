@@ -1,6 +1,6 @@
 # Hola :)
 
-[https://img.shields.io/twitch/status/axelchips?label=AxelChips&style=social](https://img.shields.io/twitch/status/axelchips?label=AxelChips&style=social)
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/axelchips?label=AxelChips&style=social">
 
 
 ## Sobre Mi
