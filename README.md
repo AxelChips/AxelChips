@@ -5,12 +5,12 @@
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/AxelChips?label=Reddit%20-%20Follow&style=social)
 
 ## Sobre Mi
-- 🌍Roblox Dev 
-- 👷Minecraft Dev 
-- 🌙LUA Script 
-- 🛡️HTML & CSS 
-- 📱Database manager
-- 🍕I like Pizza
+- 🌍 Roblox Dev 
+- 👷 Minecraft Dev 
+- 🌙 LUA Script 
+- 🛡️ HTML & CSS 
+- 📱 Database manager
+- 🍕 I like Pizza
 
 - :writing_hand: Actual Proyecto: Hydex.dev 
 
